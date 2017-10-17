@@ -23,7 +23,7 @@ public class Couse {
     }
 
     public void roll() {
-        System.out.println("The students in Class " + this.subjectName + " show as flow:");
+        System.out.println("Students in Class " + this.subjectName + " show as flow:");
         for (Student stu : studentList) {
             System.out.println(stu.getName());
         }
