@@ -1,0 +1,8 @@
+package counter;
+
+import javax.swing.Timer;
+import java.awt.event.*;
+
+public class Counter {
+
+}

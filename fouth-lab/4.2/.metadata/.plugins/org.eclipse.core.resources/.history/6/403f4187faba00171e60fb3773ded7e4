@@ -1,0 +1,7 @@
+package counter;
+
+import JPanel;
+
+public class MyPanel extends JPanel {
+
+}

@@ -1,0 +1,17 @@
+package counter;
+
+import javax.swing.Timer;
+import javax.swing.JButton;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class Counter implements ActionListener {
+
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
